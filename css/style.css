@@ -1,0 +1,11 @@
+.my-caption{
+    background-color: rgba(0,0,0,0.4);
+    bottom: 100px;
+    border-radius: 10px;
+}
+.h-200{
+    height:200px;
+}
+.h-50{
+    height:50px;
+}
